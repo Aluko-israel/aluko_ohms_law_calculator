@@ -1,0 +1,39 @@
+
+# Ohm's Law and Power Calculator
+
+## What it does
+This Python program calculates voltage, current, resistance and electrical power using Ohm's Law. It also allows users to view their previous calculations.
+
+## How to run it
+Install Python 3 or Pydroid 3.
+
+Run the program using:
+python ohms_law_calculator.py
+
+## Sample output
+
+MAIN MENU
+1. Calculate
+2. View Calculation History
+0. Exit
+
+Choose: 1
+
+What would you like to calculate?
+Voltage
+
+Enter current (A): 2
+Enter resistance (Ohms): 10
+
+Calculation Result:
+Voltage = 20.00 V
+
+## My own twist
+I added a calculation history feature that stores previous results and allows users to view them.
+
+## What I learned
+I learned how to use Python functions, loops, conditional statements and exception handling. I also learned how to apply Ohm's Law in a practical program.
+
+## Author
+Aluko Israel Orisunayomi
+ND1 Mechatronics Engineering, YabaTech.
